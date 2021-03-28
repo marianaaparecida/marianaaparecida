@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marianaaparecida
+- 👀 I’m interested in UX Design and Front-End development
+- 🌱 I’m currently learning React, Angular, JS, HTML and CSS
+- 💞️ I’m looking to collaborate on the front-end simple projects
+- 📫 How to reach me send a email to marianaaparecida@dcc.ufmg.br
